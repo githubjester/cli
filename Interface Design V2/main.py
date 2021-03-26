@@ -10,8 +10,6 @@
     #https://thispointer.com/python-4-ways-to-print-items-of-a-dictionary-line-by-line/ <- used for login()
     #https://stackoverflow.com/questions/44008489/dice-rolling-simulator-in-python/44009898 <- dice rolling
     #https://ascii.co.uk/art/pizza <- pizza ascii
-    #https://linuxhandbook.com/python-write-list-file/ <- write to text file
-    #https://thispointer.com/how-to-append-text-or-lines-to-a-file-in-python/ <- append text into a .txt file
     #https://www.asciiart.eu/computers/smileys <- smiley face ascii
 
 
